@@ -1,0 +1,4 @@
+{
+    "git.ignoreMissingGitWarning": true,
+    "python.pythonPath": "/usr/local/bin/python3"
+}
